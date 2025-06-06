@@ -10,7 +10,7 @@ Créer un agent intelligent capable de contrôler un bras robotique dans Unity p
 
 ##  Algorithme utilisé
 - **PPO (Proximal Policy Optimization)** via ML-Agents.
-- L’agent observe la position des cubes via une caméra montée sur le bras.
+- L’agent observe la position des cubes et faire l'empilage
 
 ##  Architecture
 - `Assets/Scenes/`: Contient la scène avec le bras et les cubes.
